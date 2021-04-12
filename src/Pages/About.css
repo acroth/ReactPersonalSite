@@ -1,0 +1,19 @@
+
+
+.tabContainer{
+    margin-top:10%;
+    margin-bottom:10%;
+    color:white;
+}
+
+.tabContent{
+    background-color:#222222;
+}
+
+/*Tab buttons*/
+.rwt__tab{
+    color:white;
+}
+li{
+    list-style-type: none;
+}

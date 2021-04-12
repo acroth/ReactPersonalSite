@@ -1,0 +1,17 @@
+#greeting{
+    color: white; 
+}
+
+#greeting:hover{
+  color: white;
+  background-image: linear-gradient(#222222 60%, #06D5FF 55%);
+}
+.name{
+    text-align: right;
+    margin-right: 10%!important;
+    
+}
+.socIcons:hover{
+    color: white;
+    background-image: linear-gradient(#222222 60%, #06D5FF 55%);
+}
